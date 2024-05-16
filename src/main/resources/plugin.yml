@@ -1,0 +1,5 @@
+name: Debugger
+version: '${project.version}'
+main: pr.lofe.lib.debug.Debugger
+api-version: '1.20'
+authors: [just_l0fe]
